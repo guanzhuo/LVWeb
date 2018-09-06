@@ -13,7 +13,7 @@ import net.wendal.nutzbook.bean.User;
 public class MainSetup implements Setup{
 
 	@Override
-	public void destroy(NutConfig arg0) {
+	public void destroy(NutConfig nc) {
 		// TODO Auto-generated method stub
 		
 	}
